@@ -27,7 +27,7 @@ public class Main {
 	static TreeMap<String,Integer> stem_map_sort = new TreeMap(kvc1);
 	
 	//Please change the  input files and tokenize accordingly
-	static String filepath = "Cranfield/";
+	static String filepath = "Tweets/";
 
 	static String[] stopwords= {"and","any","are","as","be","been","but","by","few","for","have","he","her","here","him","his","how","i","in","is","it","its","many","me","my","none","of","on","or","our","she","some","the","their","them","there","they","that","this","us","was","what","when","where","which","who","why","will","with","you","your"};
 	
